@@ -6,7 +6,8 @@
   },
   "site": {
     "title": "The title of your blog",
-    "description": "The description of your blog"
+    "description": "The description of your blog",
+    "postsPerPage": "5"
   },
   "socialnetwork": {},
   "theme": {
