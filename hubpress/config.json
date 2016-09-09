@@ -4,7 +4,11 @@
     "repositoryName": "theblankpages.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "The title of your blog"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
