@@ -5,7 +5,8 @@
     "branch": "master"
   },
   "site": {
-    "title": "The title of your blog"
+    "title": "The title of your blog",
+    "description": "The description of your blog"
   },
   "socialnetwork": {},
   "theme": {
